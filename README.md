@@ -1,1 +1,1 @@
-Screen, which shows message about succes task
+Screen, which shows message about success task
